@@ -1,7 +1,7 @@
 /* empty css                                      */
-import { c as createComponent, r as renderTemplate, m as maybeRenderHead, e as addAttribute, s as spreadAttributes, f as createAstro, b as renderSlot, a as renderComponent, F as Fragment } from '../chunks/astro/server_C1Wh_BtC.mjs';
+import { c as createComponent, r as renderTemplate, m as maybeRenderHead, e as addAttribute, s as spreadAttributes, f as createAstro, b as renderSlot, a as renderComponent, F as Fragment } from '../chunks/astro/server_DmdvD1me.mjs';
 import 'kleur/colors';
-import { a as $$Badge, b as $$SocialPill, c as $$LinkedIn, $ as $$SectionContainer, d as $$Layout } from '../chunks/Layout_pzSYu0iP.mjs';
+import { a as $$Badge, b as $$SocialPill, c as $$LinkedIn, $ as $$SectionContainer, d as $$Layout } from '../chunks/Layout_C_79JatP.mjs';
 import 'clsx';
 export { renderers } from '../renderers.mjs';
 
